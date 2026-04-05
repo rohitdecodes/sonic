@@ -1,0 +1,8 @@
+venv/
+.env
+.spotify_cache
+logs/
+__pycache__/
+*.pyc
+models/
+wake_word_samples/

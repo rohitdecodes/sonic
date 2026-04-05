@@ -1,0 +1,29 @@
+# PyTorch — install separately with CUDA flags
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# Audio I/O
+pyaudio
+sounddevice
+soundfile
+pygame
+
+# STT
+openai-whisper
+
+# TTS
+kokoro>=0.9.2
+
+# Wake word
+openwakeword
+onnxruntime
+
+# LLM
+groq
+
+# Spotify
+spotipy
+
+# Utilities
+python-dotenv
+numpy
+scipy
