@@ -1,6 +1,6 @@
 # S.O.N.I.C. — Systems-Oriented Neural Intelligence Companion
 
-### Built on: HP Omen | RTX 4050 6GB | 16GB RAM | Windows
+
 
 > A fully local, offline-capable personal voice assistant inspired by Iron Man's J.A.R.V.I.S.
 > Zero monthly cost. Runs on your machine. Your voice. Your plans. Your music.
