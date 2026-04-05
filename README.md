@@ -162,7 +162,7 @@ python main.py
 
 - **OS**: Windows 10/11
 - **Python**: 3.10 or 3.11
-- **GPU**: NVIDIA RTX 4050 6GB (CUDA 11.8+)
+- **GPU**: NVIDIA RTX  (CUDA 11.8+)
 - **RAM**: 8GB minimum (16GB recommended)
 - **Spotify**: Premium account (required for playback control)
 - **Groq**: Free API key
