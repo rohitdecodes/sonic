@@ -1,6 +1,6 @@
 # S.O.N.I.C. — Systems-Oriented Neural Intelligence Companion
 
-### Built on: HP Omen | RTX 4050 6GB | 16GB RAM | Windows
+
 
 > A fully local, offline-capable personal voice assistant inspired by Iron Man's J.A.R.V.I.S.
 > Zero monthly cost. Runs on your machine. Your voice. Your plans. Your music.
@@ -162,7 +162,7 @@ python main.py
 
 - **OS**: Windows 10/11
 - **Python**: 3.10 or 3.11
-- **GPU**: NVIDIA RTX 4050 6GB (CUDA 11.8+)
+- **GPU**: NVIDIA RTX  (CUDA 11.8+)
 - **RAM**: 8GB minimum (16GB recommended)
 - **Spotify**: Premium account (required for playback control)
 - **Groq**: Free API key
