@@ -188,5 +188,5 @@ Then set `USE_CUSTOM_WAKE = True` in `config.py`.
 
 ---
 
-*Built by Rohit Patil*
+*Built by Rohit*
 *love you 3000*
